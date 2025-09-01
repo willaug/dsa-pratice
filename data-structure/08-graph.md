@@ -1,7 +1,6 @@
 [README > Data Structure > Graph](../README.md)
 
-## 🔋 Graph
-
+## 🗺️ Graph
 A graph is a collection of nodes (or vertices) connected by edges. Graphs are used to represent relationships between objects and can be either directed (edges have a direction) or undirected (edges do not have a direction).
 
 ### 📌 Characteristics of Graphs

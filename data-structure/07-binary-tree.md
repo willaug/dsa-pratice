@@ -1,7 +1,6 @@
 [README > Data Structure > Binary Tree](../README.md)
 
-## 🔋 Binary Tree
-
+## 🌴 Binary Tree
 A binary tree is a hierarchical data structure in which each node has at most two children, referred to as the left child and the right child. Binary trees are widely used in computer science for various applications, including searching, sorting, and representing hierarchical data.
 
 ### 📌 Characteristics of Binary Trees
