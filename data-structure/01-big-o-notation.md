@@ -1,4 +1,4 @@
-[README > Big O Notation](../README.md)
+[README > Data Structure > Big O Notation](../README.md)
 
 ## ⭕ Big O Notation
 
@@ -55,17 +55,17 @@ for (let i = 0; i < arr.length; i++) {
 ```js
 const arr = [1, 2, 3, 4, 5];
 const target = 3;
-let low = 0;
-let high = arr.length - 1;
-while (low <= high) {
-  const mid = Math.floor((low + high) / 2);
+let left = 0;
+let right = arr.length - 1;
+while (left <= right) {
+  const mid = Math.floor((left + right) / 2);
   if (arr[mid] === target) {
     console.log(`Found ${target} at index ${mid}`);
     break;
   } else if (arr[mid] < target) {
-    low = mid + 1;
+    left = mid + 1;
   } else {
-    high = mid - 1;
+    right = mid - 1;
   }
 }
 ```
@@ -100,7 +100,7 @@ function merge(left, right) {
 }
 ```
 
---
+---
 
 **Resources**
 - [What is Big O Notation Explained: Space and Time Complexity](https://www.freecodecamp.org/news/big-o-notation-why-it-matters-and-why-it-doesnt-1674cfa8a23c/)

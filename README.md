@@ -12,11 +12,8 @@ This repository is a collection of notes and examples for practicing data struct
 
 The repository is organized into the following directories:
 
-- `:topic/`: Contains code & notes examples from specific concepts.
-- `:topic/notes.md`: Contains general notes on the specific topic.
-
-### 📝 Topics
-- [Big O Notation](big-o-notation/notes.md)
+- `:topic-module/`: Contains code & notes examples from specific concepts.
+- `:topic-module/topic.md`: Contains general notes on the specific topic.
 
 ### ⚠️ Disclaimer
 As an example of my progress, this repository may include informal notes, code snippets, and cringe errors that I encounter along the way.
