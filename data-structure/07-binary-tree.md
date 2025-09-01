@@ -14,7 +14,6 @@ A binary tree is a hierarchical data structure in which each node has at most tw
 - **Search Efficiency**: Searching in a BST is more efficient (O(log n) on average) compared to a regular binary tree (O(n)).
 - **Use Cases**: Binary trees are used for hierarchical data representation, while BSTs are used for fast data retrieval.
 
-
 ### 💚 Best choice
 - Use binary trees when you need to represent hierarchical relationships.
 - Use binary search trees when you need fast search, insert, and delete operations.
