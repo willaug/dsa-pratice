@@ -1,6 +1,6 @@
 [README > Data Structure > Linked List](../README.md)
 
-## 🚌 Linked List
+## 🔗 Linked List
 A linked list is a linear data structure where elements are stored in nodes, and each node points to the next node in the sequence.
 
 ### 📌 Characteristics of Linked Lists
