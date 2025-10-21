@@ -47,3 +47,4 @@ function reverseString(s) {
 
 // Example:
 console.log(reverseString(['h','e','l','l','o'])); // ['o','l','l','e','h']
+```
